@@ -7,5 +7,4 @@ The changes that has been made is:
 2. Adding more gesture that can be detected by the model
 3. Changing and modifying the colour for the accuracy parameter
 4. Changing the value numbers of dataset used to train the model
-
-Thankyou.
+5. Creating a new model based on the CNN algorithm.
