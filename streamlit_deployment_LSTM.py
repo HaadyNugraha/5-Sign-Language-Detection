@@ -1,10 +1,10 @@
 import streamlit as st
-import cv2
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 import mediapipe as mp
 import time
+import cv2
 
 #Loading Model
 model = load_model('action_LSTM.h5')
